@@ -1,0 +1,41 @@
+
+Date: 13/3/2022
+Time: 10:53
+Phone Number: +5511969645347
+Message: Oii marina teste de mensagem
+--------------------
+Date: 13/3/2022
+Time: 10:57
+Phone Number: +5511967967778
+Message: Oii clayton dia do pagamento
+--------------------
+Date: 13/3/2022
+Time: 11:1
+Phone Number: +5511967967778
+Message: Oii clayton dia do pagamento
+--------------------
+Date: 13/3/2022
+Time: 11:2
+Phone Number: +5511969645347
+Message: Oii marina teste de mensagem
+--------------------
+Date: 13/3/2022
+Time: 11:4
+Phone Number: +5511967967778
+Message: Oii clayton ultima mensagem
+--------------------
+Date: 13/3/2022
+Time: 11:5
+Phone Number: +5511969645347
+Message: Oii marina teste
+--------------------
+Date: 13/3/2022
+Time: 11:30
+Phone Number: +5511967967778
+Message: Oii clayton valor a pagar 10,00
+--------------------
+Date: 13/3/2022
+Time: 11:31
+Phone Number: +5511969645347
+Message: Oii marina pagar 05,00
+--------------------
